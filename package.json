@@ -16,6 +16,8 @@
     "react-export-table-to-excel": "^1.0.3",
     "react-html-table-to-excel": "^2.0.0",
     "react-scripts": "5.0.0",
+    "serve": "^13.0.2",
+    "server": "^1.0.37",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

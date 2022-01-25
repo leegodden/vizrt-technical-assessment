@@ -1,10 +1,10 @@
 # Vizrt Technical Assessment Documentation
 
-This is an example of fetching users data from a simple external api (in this case https://jsonplaceholder.typicode.com), displaying into a form, and through a table exporting to an excel file. This app consists of a dropdown which users can use to select a user from the api above. Upon selecting the user from the dropdown the details for that user will be displayed in a form. The user can then add these details to a table by clicking the 'Add user button' on the form.
+This is an example of fetching users data from a simple external api (in this case https://jsonplaceholder.typicode.com), displaying thier details into a form, adding to a table and then exporting to an excel file. This app consists of a dropdown which users can use to select a user from the api above. Upon selecting the user from the dropdown the details for that user will be displayed in a form. The user can then add these details to a table by clicking the 'Add user button' on the form.
 
 After the forms button is clicked, the form will clear and the button will be disabled to ensure that an empty row cannot be added. Up to ten users can be added from the form and into the table. The table of users can also be exported to an Excel file with the 'Export Table to Excel' button above the table. The app is fully responsive for a variety of different screen sizes.
 
-This is of course a simple example but could be easily scaled up to use a more complex api which could include further dropdowns along with a larger form
+This is of course a simple example but could be easily scaled up to use a more complex api which could include further dropdowns along with a larger form etc
 
 # Tools/applications used
 
@@ -17,9 +17,10 @@ Export Table to Excel package for exporting the table to Excel
 # Possible improvements
 
 Further dropdowns for user to choose required data
-Ability to delete rows from the table
+Ability to edit/delete rows from the table
 Options to export for more file types
 ablity to push data to api
+Futher enhancement to usability
 
 # =================================================================================================================
 
